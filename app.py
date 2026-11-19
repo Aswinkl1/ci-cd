@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello from task-3-49 - deployed via GitHub Actions + OIDC!\n"
+    return "Hello from task-3-49 - deploye via GitHub Actions + OIDC!\n"
 
 
 if __name__ == "__main__":
